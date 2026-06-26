@@ -20,7 +20,7 @@ CGPA: **8.38**
 
 🧩 Strengthening **Data Structures & Algorithms** using Java for coding interviews.
 
-🚀 Building practical backend projects to improve software engineering skills and gain hands-on experience.
+🚀 Building backend projects to strengthen software engineering fundamentals and solve real-world problems.
 
 🎯 Seeking **Software Engineering**, **Java Backend**, and **FinTech** opportunities.
 
@@ -35,46 +35,45 @@ CGPA: **8.38**
 * Building industry-oriented backend projects
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-* Java
-* C
+<p>
+<img src="https://skillicons.dev/icons?i=java,c"/>
+</p>
 
-### Frontend
+### ⚙️ Backend
 
-* HTML
-* CSS
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+</p>
 
-### Backend *(Currently Learning)*
+- Spring Boot *(Learning)*
+- Spring Framework *(Learning)*
+- REST APIs *(Learning)*
+- Hibernate *(Learning)*
+- JPA *(Learning)*
 
-* Spring Boot
-* Spring Framework
-* REST APIs
-* Hibernate
-* JPA
+### 🎨 Frontend
 
-### Database
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
 
-* MySQL
+### 🧰 Tools
 
-### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven"/>
+</p>
 
-* Git
-* GitHub
-* IntelliJ IDEA
-* VS Code
-* Postman
-* Maven
+### 🚀 Exploring
 
-### Exploring
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kafka"/>
+</p>
 
-* Docker
-* Apache Kafka
-* Microservices
-
+- Microservices
 ---
 
 ## 🚀 Featured Projects
