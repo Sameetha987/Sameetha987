@@ -39,41 +39,47 @@ CGPA: **8.38**
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend *(Currently Learning)*
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-- Spring Boot *(Learning)*
-- Spring Framework *(Learning)*
-- REST APIs *(Learning)*
-- Hibernate *(Learning)*
-- JPA *(Learning)*
+- Spring Boot
+- Spring Framework
+- REST APIs
+- Hibernate
+- JPA
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🧰 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,postman" />
 </p>
 
-### 🚀 Exploring
+### 🚀 Currently Exploring
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kafka"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kafka" />
 </p>
 
-- Microservices
+- Microservices Architecture
 ---
 
 ## 🚀 Featured Projects
