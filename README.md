@@ -1,16 +1,154 @@
-## Hi there 👋
+# Hello, I'm Sameetha 👋
 
-<!--
-**Sameetha987/Sameetha987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+*Building reliable backend applications with Java while continuously learning modern software engineering.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning. Building. Improving.**
+
+---
+
+## 👩‍💻 About Me
+
+🎓 **B.E. Electronics and Communication Engineering**
+Bannari Amman Institute of Technology (2023–2027)
+CGPA: **8.38**
+
+💻 Aspiring **Java Backend Developer** with a strong interest in designing scalable and maintainable backend applications.
+
+📚 Currently learning **Spring Boot**, **REST APIs**, **Microservices**, **Docker**, and **Apache Kafka**.
+
+🧩 Strengthening **Data Structures & Algorithms** using Java for coding interviews.
+
+🚀 Building practical backend projects to improve software engineering skills and gain hands-on experience.
+
+🎯 Seeking **Software Engineering**, **Java Backend**, and **FinTech** opportunities.
+
+---
+
+## 🎯 Current Focus
+
+* Developing a **Banking Management System** using Java & MySQL
+* Learning **Spring Boot** and REST API development
+* Strengthening **DSA** and problem-solving in Java
+* Exploring **Microservices**, **Docker**, and **Apache Kafka**
+* Building industry-oriented backend projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* C
+
+### Frontend
+
+* HTML
+* CSS
+
+### Backend *(Currently Learning)*
+
+* Spring Boot
+* Spring Framework
+* REST APIs
+* Hibernate
+* JPA
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+* Postman
+* Maven
+
+### Exploring
+
+* Docker
+* Apache Kafka
+* Microservices
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Banking Management System *(In Progress)*
+
+**Java • MySQL • IntelliJ IDEA**
+
+A console-based Banking Management System developed using Core Java with layered architecture, simulating real-world banking operations using object-oriented programming principles.
+
+---
+
+### 🎓 Blockchain-Based Transcript Issuance & Verification System
+
+**Spring Boot • React • MySQL • Ethereum • Docker**
+
+A blockchain-integrated platform that enables universities to issue tamper-proof academic transcripts while allowing employers and institutions to verify authenticity using Ethereum smart contracts.
+
+🔗 Live Demo: https://transcript-issuance-system-6oqw.vercel.app/
+
+---
+
+### 🌸 ArovyaCare
+
+**React • Firebase • CSS**
+
+An AI-powered maternal healthcare platform designed to assist early pregnancy risk detection in rural communities and support timely medical intervention.
+
+🔗 Live Demo: https://arovyacare.vercel.app
+
+---
+
+### 🚖 Taxi Booking System
+
+**Java • IntelliJ IDEA**
+
+A console-based Taxi Booking System developed using Core Java to demonstrate object-oriented programming concepts and business logic implementation.
+
+---
+
+## 📈 2026 Learning Roadmap
+
+* ✅ Core Java
+* ✅ Object-Oriented Programming
+* ✅ SQL & MySQL
+* 🔄 Spring Boot
+* 🔄 REST APIs
+* ⏳ Spring Security
+* ⏳ Docker
+* ⏳ Apache Kafka
+* ⏳ Redis
+* ⏳ JUnit & Mockito
+* ⏳ Microservices
+* ⏳ CI/CD
+
+---
+
+## 🏆 Certifications
+
+* HackerRank SQL (Basic)
+* HackerRank SQL (Intermediate)
+
+---
+
+
+## 📫 Connect With Me
+
+📧 **Email:** (mailto:sameetha.k.p@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sameetha-p-17s/
+
+🧩 **LeetCode:** https://leetcode.com/u/Sameetha_p/
+
+🏆 **HackerRank:** https://www.hackerrank.com/profile/sameetha_ec23
+
+---
+
